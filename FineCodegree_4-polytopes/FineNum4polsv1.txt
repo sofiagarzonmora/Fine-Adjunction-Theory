@@ -1,0 +1,2 @@
+Classical Q-codegree ; Fine Q-codegree ; Vertices of Polytope 
+5;5;[[0,0,0,0],[1,0,0,0],[0,1,0,0],[0,0,1,0],[0,0,0,1]]
