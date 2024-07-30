@@ -1,1 +1,1 @@
-This repository contains the code for computing the fine Q-codegree of a given polytope. It was used on polytopes of dimension 2 up to volume 50.
+This repository contains the code for computing the fine Q-codegree of a given polytope. It has been used on polytopes of dimension up to 5 and volume up to 50.
